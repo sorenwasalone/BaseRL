@@ -62,7 +62,7 @@ int chk_dmap (int n, char pos){
 int pinp(char m){
 	switch(m){
 	case 'a':
-	
+	case 's':
 	}
 	return imap[0][py][px];
 }
