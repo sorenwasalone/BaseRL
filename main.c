@@ -77,6 +77,7 @@ int main(){
 	char ch;
 	while((ch=getch())!='q'){
 		erase();
+		printw("WDHASHDKJH");
 		printw("Ughdhsf");
 		plinp(ch);
 		p_test_imap();
